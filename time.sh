@@ -3,5 +3,5 @@
 # Get current timestamp
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
 
-echo "Current Time: $timestamp"
+echo "Display the exact  Time: $timestamp"
 
